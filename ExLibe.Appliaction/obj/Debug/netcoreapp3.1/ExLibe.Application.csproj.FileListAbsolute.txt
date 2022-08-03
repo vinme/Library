@@ -1,0 +1,13 @@
+C:\Users\vinee\source\repos\ExLib\ExLibe.Appliaction\obj\Debug\netcoreapp3.1\ExLibe.Application.csproj.AssemblyReference.cache
+C:\Users\vinee\source\repos\ExLib\ExLibe.Appliaction\obj\Debug\netcoreapp3.1\ExLibe.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinee\source\repos\ExLib\ExLibe.Appliaction\obj\Debug\netcoreapp3.1\ExLibe.Application.AssemblyInfoInputs.cache
+C:\Users\vinee\source\repos\ExLib\ExLibe.Appliaction\obj\Debug\netcoreapp3.1\ExLibe.Application.AssemblyInfo.cs
+C:\Users\vinee\source\repos\ExLib\ExLibe.Appliaction\obj\Debug\netcoreapp3.1\ExLibe.Application.csproj.CoreCompileInputs.cache
+C:\Users\vinee\source\repos\ExLib\ExLibe.Appliaction\bin\Debug\netcoreapp3.1\ExLibe.Application.deps.json
+C:\Users\vinee\source\repos\ExLib\ExLibe.Appliaction\bin\Debug\netcoreapp3.1\ExLibe.Application.dll
+C:\Users\vinee\source\repos\ExLib\ExLibe.Appliaction\bin\Debug\netcoreapp3.1\ExLibe.Application.pdb
+C:\Users\vinee\source\repos\ExLib\ExLibe.Appliaction\bin\Debug\netcoreapp3.1\ExLib.Domain.dll
+C:\Users\vinee\source\repos\ExLib\ExLibe.Appliaction\bin\Debug\netcoreapp3.1\ExLib.Domain.pdb
+C:\Users\vinee\source\repos\ExLib\ExLibe.Appliaction\obj\Debug\netcoreapp3.1\ExLibe.Application.csproj.CopyComplete
+C:\Users\vinee\source\repos\ExLib\ExLibe.Appliaction\obj\Debug\netcoreapp3.1\ExLibe.Application.dll
+C:\Users\vinee\source\repos\ExLib\ExLibe.Appliaction\obj\Debug\netcoreapp3.1\ExLibe.Application.pdb
